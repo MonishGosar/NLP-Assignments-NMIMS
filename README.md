@@ -9,10 +9,18 @@
 * Task 1: [Practical 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical1_NLP_J025.ipynb)
 
 ## Chapter 2: Word Vectors
-* Task 1: [Practical 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+* Task 2: [Practical 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
 
+## Chapter 3: RNNs and LSTMs
+* Task 3: [Practical 3 - Part 1](https://github.com/yourusername/yourrepository/blob/main/chapter3/task1_word2vec.ipynb)
+* Task 3: [Practical 3 - Part 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(Part%202)%20Practical3_NLP_J025.ipynb)
 
-## Chapter 3: Word embeddings and deep learning for text classification
-* Task 1: [Word2Vec Embeddings](https://github.com/yourusername/yourrepository/blob/main/chapter3/task1_word2vec.ipynb)
-* Task 2: [GloVe Embeddings](https://github.com/yourusername/yourrepository/blob/main/chapter3/task2_glove.ipynb)
-* Task 3: [Deep Learning Models for Text Classification](https://github.com/yourusername/yourrepository/blob/main/chapter3/task3_deep_learning.ipynb)
+## Chapter 4: Transformers
+* Task 4: [Practical 4](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+
+## Chapter 5: FineTuning Transformers
+* Task 5: [Practical 5](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+
+## Chapter 6: Question Answering and NER
+* Task 6: [QnA Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+* Task 6: [NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
