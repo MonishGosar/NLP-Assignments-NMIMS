@@ -23,4 +23,8 @@
 
 ## Chapter 6: Question Answering and NER
 * Task 6: [QnA Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(QnA)%20Practical%206_NLP_J025.ipynb)
-* Task 6: [NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+* Task 7: [NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+
+## Chapter 6: Question Answering and NER
+* Task 8: [QnA Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(QnA)%20Practical%206_NLP_J025.ipynb)
+* Task 9: [NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
