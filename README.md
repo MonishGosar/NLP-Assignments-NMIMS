@@ -26,5 +26,5 @@
 * Task 7: [NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
 
 ## Chapter 7: Text Search
-* Task 8: [QnA Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(QnA)%20Practical%206_NLP_J025.ipynb)
-* Task 9: [NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+* Task 8: [Task 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(QnA)%20Practical%206_NLP_J025.ipynb)
+* Task 9: [Task 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
