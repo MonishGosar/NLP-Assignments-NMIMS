@@ -1,7 +1,5 @@
 # NLP Assignments NMIMS
 
-# NLP Assignments NMIMS
-
 ## Table of Contents
 - [Chapter 1: Tokens, Text Cleaning, and Frequency-Based Vectorization Methods for Text Classification](#chapter-1-tokens-text-cleaning-and-frequency-based-vectorization-methods-for-text-classification)
   - [Task 1: Practical 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical1_NLP_J025.ipynb)
@@ -20,12 +18,6 @@
 - [Chapter 7: Text Search](#chapter-7-text-search)
   - [Task 8: Match User Queries](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
   - [Task 9: Match Names](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%209_NLP_J025.ipynb)
-
-
-## Table of Contents
-- [Chapter 1: Tokens, text cleaning and frequency based vectorisation methods for text classification](#chapter-1-tokens-text-cleaning-and-frequency-based-vectorisation-methods-for-text-classification)
-- [Chapter 2: Word Vectors](#Chapter-2-:-Word-Vectors)
-- [Chapter 3: Word embeddings and deep learning for text classification](#chapter-3-word-embeddings-and-deep-learning-for-text-classification)
 
 ## Chapter 1: Tokens, text cleaning and frequency based vectorisation methods for text classification
 * Task 1: [Practical 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical1_NLP_J025.ipynb)
