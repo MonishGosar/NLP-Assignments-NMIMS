@@ -7,7 +7,7 @@
   - [Task 2: Practical 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
 - Chapter 3: Word Embeddings and Deep Learning for Text Classification
   - [Task 3: Practical 3 - Part 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(Part%201)%20Practical%203_NLP_J025.ipynb)
-  - [Task 3: Practical 3 - Part 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(Part%202)%20Practical3_NLP_J025.ipynb)
+  - [Task 3: Practical 3 - Part 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(Part%202)%20Practical%203_NLP_J025.ipynb)
 - Chapter 4: Transformers
   - [Task 4: Practical 4](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
 - Chapter 5: Fine-Tuning Transformers
