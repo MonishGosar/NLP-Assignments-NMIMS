@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - Chapter 1: Tokens, Text Cleaning, and Frequency-Based Vectorization Methods for Text Classification
-  - [Task 1: Practical 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical1_NLP_J025.ipynb)
+  - [Task 1: Practical 1](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%201_NLP_J025.ipynb)
 - Chapter 2: Word Vectors
   - [Task 2: Practical 2](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
 - Chapter 3: Word Embeddings and Deep Learning for Text Classification
