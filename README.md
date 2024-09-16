@@ -19,14 +19,14 @@
     
 - Chapter 6: Question Answering and Named Entity Recognition (NER)
   - [Task 6: QnA Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/(QnA)%20Practical%206_NLP_J025.ipynb)
-  - [Task 7: NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical2_NLP_J025.ipynb)
+  - [Task 7: NER Task](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%207_NLP_J205.ipynb)
   
 - Chapter 7: Text Search
   - [Task 8: Match User Queries](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
   - [Task 9: Match Names](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%209_NLP_J025.ipynb)
 
- - Chapter 8: Semantic Search
-  - [Task 10: Semantic Search Quora](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
+- Chapter 8: Semantic Search
+ - [Task 10: Semantic Search Quora](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
 
 
   
