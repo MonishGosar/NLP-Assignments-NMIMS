@@ -25,8 +25,9 @@
   - [Task 8: Match User Queries](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
   - [Task 9: Match Names](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%209_NLP_J025.ipynb)
 
-- Chapter 8: Semantic Search
- - [Task 10: Semantic Search Quora](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
+- Chapter 8: Text Search
+  - [Task 10: Semantic Search Quora](https://github.com/MonishGosar/NLP-Assignments-NMIMS/blob/main/Practical%208_NLP_J025.ipynb)
+
 
 
   
